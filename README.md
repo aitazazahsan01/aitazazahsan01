@@ -1,14 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&width=800&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%7C+ML+%7C+Deep+Learning+Enthusiast;Building+Intelligent+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%7C+ML+%7C+Deep+Learning+Enthusiast;Building+Intelligent+Applications" />
 </p>
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitazazahsan01&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aitazazahsan01&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aitazazahsan01&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitazazahsan01&layout=compact&theme=tokyonight" />
+</p>
 
 # Hi there 👋, I'm Muhammad Aitazaz Ahsan
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-3.81-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-6th-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NUST-Software%20Engineering-green?style=for-the-badge" />
+</p>
 
 ## 🚀 Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
@@ -35,6 +41,11 @@ I'm a passionate Software Engineering student at NUST with a strong interest in 
   * Deep Learning
 
 ---
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,python,java,cpp,git,github,vscode" />
+</p>
 
 ## 💻 Full-Stack Development Expertise
 
