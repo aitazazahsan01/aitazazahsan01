@@ -1,53 +1,65 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%7C+ML+%7C+Deep+Learning+Enthusiast;Building+Intelligent+Applications" />
-</p>
+<div align="center">
 
-## 📊 GitHub Statistics
+# Muhammad Aitazaz Ahsan
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aitazazahsan01&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitazazahsan01&layout=compact&theme=tokyonight" />
-</p>
+### Software Engineering Student • Full-Stack Developer • AI Enthusiast
 
-# Hi there 👋, I'm Muhammad Aitazaz Ahsan
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-3.81-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-6th-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NUST-Software%20Engineering-green?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+at+NUST;Full-Stack+Web+Developer;MERN+%26+Next.js+Developer;AI+%7C+Machine+Learning+%7C+Deep+Learning;Exploring+Agentic+AI+and+Intelligent+Systems" alt="Typing SVG" />
 
-## 🚀 Software Engineering Student | Full-Stack Developer | AI Enthusiast
+<br>
 
-I'm a passionate Software Engineering student at NUST with a strong interest in building scalable web applications, intelligent systems, and AI-powered solutions. I enjoy transforming ideas into practical products through modern web technologies, machine learning, and automation.
+<img src="https://img.shields.io/badge/CGPA-3.81%2F4.00-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Completed-6th%20Semester-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NUST-Software%20Engineering-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Learning%20and%20Collaboration-orange?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🎓 Academic Background
+# 👋 About Me
 
-* 🏫 Student at NUST (National University of Sciences and Technology)
-* 📚 Bachelor of Software Engineering
+I am a passionate **Software Engineering student at NUST** with a strong interest in building modern web applications and intelligent AI-powered solutions.
+
+My primary focus is on **Full-Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and emerging **Agentic AI Systems**.
+
+I enjoy transforming ideas into practical products that solve real-world problems through software engineering, automation, and intelligent systems.
+
+---
+
+# 🎓 Academic Background
+
+* 🏫 Bachelor of Software Engineering
+* 🎓 National University of Sciences and Technology (NUST)
 * ✅ Successfully Completed 6th Semester
-* 📈 Current CGPA: 3.81 / 4.00
-* 🔬 Strong foundation in:
+* 📈 Current CGPA: **3.81 / 4.00**
 
-  * Data Structures & Algorithms
-  * Database Systems
-  * Operating Systems
-  * Computer Networks
-  * Computer Architecture
-  * Software Design & Engineering
-  * Artificial Intelligence
-  * Machine Learning
-  * Deep Learning
+### Relevant Coursework
+
+* Data Structures & Algorithms
+* Database Systems
+* Operating Systems
+* Computer Networks
+* Software Design & Architecture
+* Computer Architecture
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Mining
 
 ---
-## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,python,java,cpp,git,github,vscode" />
-</p>
+# 🚀 Tech Stack
 
-## 💻 Full-Stack Development Expertise
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,python,java,cpp,git,github,vscode,linux" />
+
+</div>
+
+---
+
+# 💻 Full-Stack Development
 
 ### Frontend Development
 
@@ -60,7 +72,7 @@ I'm a passionate Software Engineering student at NUST with a strong interest in 
 * React.js
 * Next.js
 * Responsive Web Design
-* UI/UX Implementation
+* UI/UX Development
 
 ### Backend Development
 
@@ -69,10 +81,10 @@ I'm a passionate Software Engineering student at NUST with a strong interest in 
 * REST APIs
 * Authentication & Authorization
 * JWT Authentication
-* API Integration
-* Server-side Development
+* API Integrations
+* Server-Side Development
 
-### Databases
+### Database Technologies
 
 * MongoDB
 * MySQL
@@ -83,11 +95,11 @@ I'm a passionate Software Engineering student at NUST with a strong interest in 
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+# 🤖 Artificial Intelligence Journey
 
 Currently learning and building projects in:
 
-### Machine Learning
+## Machine Learning
 
 * Supervised Learning
 * Unsupervised Learning
@@ -96,18 +108,18 @@ Currently learning and building projects in:
 * Clustering
 * Model Evaluation
 
-### Deep Learning
+## Deep Learning
 
 * Neural Networks
-* Convolutional Neural Networks (CNNs)
-* Recurrent Neural Networks (RNNs)
-* LSTM Networks
+* CNNs (Convolutional Neural Networks)
+* RNNs (Recurrent Neural Networks)
+* LSTMs
 * Autoencoders
 * Variational Autoencoders (VAEs)
 * Generative Adversarial Networks (GANs)
 * Reinforcement Learning
 
-### Agentic AI
+## Agentic AI
 
 * AI Agents
 * Multi-Agent Systems
@@ -116,10 +128,11 @@ Currently learning and building projects in:
 * LLM Integrations
 * Retrieval-Augmented Generation (RAG)
 * Autonomous Task Execution
+* AI Agent Workflows using n8n
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Technical Skills
 
 ### Programming Languages
 
@@ -134,13 +147,13 @@ Currently learning and building projects in:
 
 * React.js
 * Next.js
-* Express.js
 * Node.js
+* Express.js
 * Tailwind CSS
 * PyTorch
-* Scikit-Learn
 * NumPy
 * Pandas
+* Scikit-Learn
 * Matplotlib
 
 ### Tools & Platforms
@@ -157,46 +170,73 @@ Currently learning and building projects in:
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * Advanced Machine Learning
 * Deep Learning Architectures
+* LLM Engineering
 * Agentic AI Systems
 * AI Workflow Automation
-* LLM Engineering
 * RAG Applications
 * MLOps
-* Cloud-Based AI Deployments
+* AI Deployment Pipelines
+* Multi-Agent Frameworks
 
 ---
 
-## 📈 What I Love Building
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aitazazahsan01&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitazazahsan01&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🎯 What I Love Building
 
 * Full-Stack Web Applications
 * AI-Powered Web Applications
-* SaaS Products
+* SaaS Platforms
 * Intelligent Automation Systems
 * Machine Learning Solutions
 * Deep Learning Projects
 * Agentic AI Workflows
-* Developer Tools
+* Developer Productivity Tools
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-My goal is to become a highly skilled Software Engineer specializing in Full-Stack Development and Artificial Intelligence, building impactful products that solve real-world problems through modern software engineering practices and intelligent systems.
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/aitazazahsan01
-* LinkedIn: [(https://www.linkedin.com/in/muhammad-aitazaz-ahsan-4b2480353/)]
-* Email: [aamirza294@gmail.com](mailto:aamirza294@gmail.com)
+My goal is to become a highly skilled Software Engineer specializing in **Full-Stack Development** and **Artificial Intelligence**, building impactful products that solve real-world challenges through modern software engineering practices and intelligent systems.
 
 ---
 
-### ⚡ Fun Fact
+# 📫 Connect With Me
 
-I enjoy combining Web Development and AI to create smart applications that are both user-friendly and intelligent.
+<div align="center">
+
+<a href="https://github.com/aitazazahsan01">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-aitazaz-ahsan-4b2480353/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:aamirza294@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy combining **Web Development** and **Artificial Intelligence** to create applications that are both intelligent and user-friendly.
+
+> “Learning never stops. Every project is another step toward becoming a better engineer.”
