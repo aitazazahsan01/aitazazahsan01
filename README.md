@@ -181,8 +181,8 @@ My goal is to become a highly skilled Software Engineer specializing in Full-Sta
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/aitazazahsan01
-* LinkedIn: [Add Your LinkedIn URL Here](https://www.linkedin.com/in/muhammad-aitazaz-ahsan-4b2480353/)
-* Email: [152264393+aitazazahsan01@users.noreply.github.com](mailto:aamirza294@gmail.com)
+* LinkedIn: [(https://www.linkedin.com/in/muhammad-aitazaz-ahsan-4b2480353/)]
+* Email: [aamirza294@gmail.com](mailto:aamirza294@gmail.com)
 
 ---
 
