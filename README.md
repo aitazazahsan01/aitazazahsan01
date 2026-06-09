@@ -188,9 +188,9 @@ Currently learning and building projects in:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aitazazahsan01&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aitazazahsan01&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitazazahsan01&layout=compact&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitazazahsan01&layout=compact&theme=tokyonight" />
 
 </div>
 
